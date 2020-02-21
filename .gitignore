@@ -1,0 +1,5 @@
+./data/*
+./output/*
+stock.xlsx
+.DS_Store
+.idea/*
